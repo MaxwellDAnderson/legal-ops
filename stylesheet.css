@@ -38,15 +38,16 @@ h3 {
   font-size: 24px;
 }
 
-p {
-  font-size: 24px;
-}
-
 p.headnote {
   font-size: 16px;
   text-indent: -36px;
   padding-left: 36px;
 }
+
+p {
+  font-size: 24px;
+}
+
 
 blockquote {
   font-size: 24px;
