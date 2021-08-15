@@ -52,6 +52,10 @@ blockquote {
   font-size: 24px;
 }
 
+span.smallcaps {
+  font-variant:small-caps;
+}
+
 ul {
   font-size: 24px;
 }
