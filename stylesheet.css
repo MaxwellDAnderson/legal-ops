@@ -53,7 +53,7 @@ blockquote {
 }
 
 span.smallcaps {
-  font-variant:small-caps;
+  font-variant: "small-caps";
 }
 
 ul {
